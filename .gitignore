@@ -1,0 +1,7 @@
+data
+final_model
+outputs
+wandb
+.venv
+.ipynb_checkpoints
+.env
